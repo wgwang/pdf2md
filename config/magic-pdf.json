@@ -1,0 +1,9 @@
+{
+    "bucket_info":{
+        "bucket-name-1":["ak", "sk", "endpoint"],
+        "bucket-name-2":["ak", "sk", "endpoint"]
+    },
+    "temp-output-dir":"./output",
+    "models-dir":"./models",
+    "device-mode":"cuda"
+}
